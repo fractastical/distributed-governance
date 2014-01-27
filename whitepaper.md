@@ -1,6 +1,6 @@
-One of the super cool things about the DAO layer on top of Bitcoin as it is evolving is that it allows programmable governance.
+The DAO layer on top of cryptocurrencies is evolving to allow programmable governance.
 
-I wanted to brainstorm about the optimal approach, since it seems in most project there is an early need for centralization (i.e. classic startup) vs. the legit desire to have more voices heard as things evolve. 
+This paper includes my best thoughts on what I believe an optimal approach. It most projects it seems that there is an early need for centralization (i.e. classic startup) vs. the legit desire to have more voices heard as things evolve. 
 
  * Current corporate model is investors decide via board seat allocation. You only have an opening once you hit IPO, but there are severe barriers to IPO which seem to be increasing. 
 
@@ -42,7 +42,7 @@ Open questions:
 
      *  Can the number of board members automatically scale to the appropriate number? Is this linear with respect to time or with respect to some other quantity (i.e. amount of funds and/or users)
 
-     *  What's the length of time for positions?  
+     *  What's the length of time for positions? Can this also be programmable? 
 
      *   How can you verify users (i.e. not allow fake accounts)?
 
