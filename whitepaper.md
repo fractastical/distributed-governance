@@ -1,6 +1,6 @@
 The distributed autonomous organization (DAC/DAO) layer on top of cryptocurrencies is evolving to allow programmable governance.
 
-This paper includes my best thoughts on regarding an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started.
+This paper includes my best thoughts on regarding an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
 
 Here are some existing models:
 
