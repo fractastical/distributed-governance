@@ -40,19 +40,19 @@ To illustrate, here's a sample timeline:
 
 Open questions:
 
-   Can the number of board members automatically scale to the appropriate number? Is this linear with respect to time or with respect to some other quantity (i.e. amount of funds and/or users)
+     *  Can the number of board members automatically scale to the appropriate number? Is this linear with respect to time or with respect to some other quantity (i.e. amount of funds and/or users)
 
-   What's the length of time for positions?  
+     *  What's the length of time for positions?  
 
-   How can you verify users (i.e. not allow fake accounts)?
+     *   How can you verify users (i.e. not allow fake accounts)?
 
-   Can the voting also handled on the blockchain?
+     *  Can the voting also handled on the blockchain?
 
-   Is board one person one vote or can/should votes be weighted?
+     *  Is board one person one vote or can/should votes be weighted?
 
-   How does this ideally evolve after the initial stages?  Linear increase in board members?  
+     *  How does this ideally evolve after the initial stages?  Linear increase in board members?  
 
-   Is this just a nice idea or can this be programmed into a etacoin or Ethereum? 
+     *  Is this just a nice idea or can this be programmed into a etacoin or Ethereum? 
 
 
 
