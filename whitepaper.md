@@ -1,6 +1,8 @@
-The DAO layer on top of cryptocurrencies is evolving to allow programmable governance.
+The distributed autonomous organization (DAC/DAO) layer on top of cryptocurrencies is evolving to allow programmable governance.
 
-This paper includes my best thoughts on what I believe an optimal approach. It most projects it seems that there is an early need for centralization (i.e. classic startup) vs. the legit desire to have more voices heard as things evolve. 
+This paper includes my best thoughts on regarding an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started.
+
+Here are some existing models:
 
  * Current corporate model is investors decide via board seat allocation. You only have an opening once you hit IPO, but there are severe barriers to IPO which seem to be increasing. 
 
@@ -8,7 +10,7 @@ This paper includes my best thoughts on what I believe an optimal approach. It m
 
  * Some cryptocurrencies have a "founder lock" on fund received via multi-sig, which is cool but doesn't exactly address the issue of evolved control over time and generally assumes static decision makers. Actual decision making is a bit vague at this point and not captured in the protocol layer. 
 
-   My optimal model is something like: 
+My optimal model is something like: 
 
      *  All major "board level" decisions captured in blockchain format. 
      * "Board level" decisions decide allocation of funds, which then go into pools
