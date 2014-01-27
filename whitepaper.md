@@ -13,9 +13,13 @@ Here are some existing models:
 My optimal model is something like: 
 
      *  All major "board level" decisions captured in blockchain format. 
+     
      * "Board level" decisions decide allocation of funds, which then go into pools
+     
      *  Pools of funds allocated to individuals/projects can each have one or many decision makers. Once allocated pools have complete autonomy. 
+     
      *  "Boards" have the following decision-makers, "founders," "investors," "users."
+     
      *  Voting is handled by a two-tiered process in which each group allowed one or more proxies. Those proxies become a board. This board then makes relevant decisions. 
     
 To illustrate, here's a sample timeline:  
@@ -46,9 +50,9 @@ Open questions:
 
      *  What's the length of time for positions? Can this also be programmable? 
 
-     *   How can you verify users (i.e. not allow fake accounts)?
+     *  How can you verify users (i.e. not allow fake accounts)?
 
-     *  Can the voting also handled on the blockchain?
+     *  Can the voting also be handled on the blockchain?
 
      *  Is board one person one vote or can/should votes be weighted?
 
