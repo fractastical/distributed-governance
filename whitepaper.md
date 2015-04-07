@@ -51,4 +51,26 @@ Open questions:
      *  Is this just a nice idea or can this be programmed into a metacoin or Ethereum? 
 
 
+Suggestions, starting with open questions: 
+1. This would ideally be adjustable with each DAC, as different models could be more ideal for different situation. Individual share holders should always be allowed to enlarge the board by vote. 
+2. Programmable 
+3. Much harder to do, which is why decesion making should be focused with share (coin) holders. As this is verified by the blockchain you can't "double spend" votes. 
+4. Major board level decesions and fund allocations could be shown on the blockchain through a variety of means. One obvious solution is generating a new coin for every vote, and have them sent to different "burn" addresses to represent each option. 
+5. Adjustable per DAC, but for reasons mentioned prior votes should be weighted by ownership of shares. 
+6. There will also be a balance between representation and decesion making effeciency, which shall vary with each DAC. Should be fully programmable and votable. 
+7. Metacoins have limitations, and Ethereum is too new to forsee how it will ultimatly play out. There's also downsides to using a new medium of exchange to run the ecosystem, making sidechains a very attractive option should they come into play. However Ethereum will be at the very least a place to do many proof of concepts and experiments in all of this. 
+8. 
 
+
+My optimal model would allow a founder to maintain effective control of finances as long as they don't sell <50% of shares for fundraising. Votes and proxies can still be adopted for feedback and differing opinions. In the event that the founder doesnt control <50% then a true "corporate" structure developes, although much more transparent and flexible than legacy corporations. A majority (or its proxies) can vote for an executive board including a CEO, and legitamize the decesion by allocating them funds from the main multisig wallet for operations. Users, as they are impossible to accuratly represent due to fraud, bots, etc. do not get a *decesion making* role, but whose feedback can always be solicited in various ways. In addition users who would like to take an active role in decesion making simply need buy shares into the DAC, already a pretty simple proccess. 
+
+With all this in mind the main tools we are looking for are:
+
+     *  A Multi-sig wallet tied to the DAC shares, recquiring votes<50% for any transactions (pools of funds for operations and other expenses can easily be allocated and audited as a result)
+     *  Basic built in tools to initiate votes, most easily done with "burnable" tokens
+     *  Tool by which investors can vote proxies who inherit the decesion making weight of their voters in regards to blockchain recorded decesions, for the extent of their term. 
+
+
+That would be a sufficient framework for most any "distributed company" to be formed, and for more advanced "Autonomous" orginizations (DAOs) to be built on later. 
+  
+    
