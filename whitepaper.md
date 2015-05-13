@@ -51,4 +51,7 @@ Open questions:
      *  Is this just a nice idea or can this be programmed into a metacoin or Ethereum? 
 
 
+====
+
+As of May 2015 this now has an implementatation: https://swarm.fund/projects/BoardRoom_1430510379
 
