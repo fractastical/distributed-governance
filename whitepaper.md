@@ -1,6 +1,6 @@
 One very cool thing about the evolving distributed autonomous organization (DAC/DAO) layer on top of cryptocurrencies is that it increasingly allows programmable governance.
 
-This paper includes my best thoughts on regarding an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
+This paper includes my best thoughts on an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
 
 Here are some existing models:
 
@@ -51,4 +51,7 @@ Open questions:
      *  Is this just a nice idea or can this be programmed into a metacoin or Ethereum? 
 
 
+====
+
+As of May 2015 this now has an implementatation: https://swarm.fund/projects/BoardRoom_1430510379
 
