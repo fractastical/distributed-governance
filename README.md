@@ -7,5 +7,3 @@ See also Decentralized Autonomous Society group on Facebook: https://www.faceboo
 
 And the physical meetup: http://www.meetup.com/Decentralized-Autonomous-Society-Meetup-Palo-Alto
 
-<img src="http://i.imgur.com/Vsqf729.png" />
-via https://github.com/idevelop/ascii-camera/blob/master/README.md
