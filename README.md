@@ -1,7 +1,12 @@
 Evolving governance via the blockchain
 ======================
 
-Dedicated to new decentralized technologies like Ethereum
+You are probably here for the whitepaper:
+
+https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
+
+
+
 
 See also Decentralized Autonomous Society group on Facebook: https://www.facebook.com/groups/579940655425355/
 
