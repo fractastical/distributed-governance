@@ -73,4 +73,4 @@ contract MyToken {
         /* Notifiy anyone listening that this transfer took place */
         Transfer(msg.sender, _to, _value);
     }
-}            
+}
