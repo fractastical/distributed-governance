@@ -1,0 +1,128 @@
+// Via Ethercasts (https://raw.githubusercontent.com/EtherCasts/trustdavis/master/contracts/references.se)
+
+# Reference database
+# - insurer, object, max/available liability, fee
+#
+# No False Claims scenario
+
+shared:
+    FACTORY = 0x10
+
+    INSURED_OFFSET = 2 ** 160
+
+    R_MAX_LIABILITY = 0
+    R_LOCKED = 1
+    R_PREMIUM = 2
+    R_LAST_UPDATED = 3
+    RECORD_SIZE = 4
+
+    E_INVALID_CMD = 900
+    E_INVALID_INSURED_ADDRESS = 901
+    E_INVALID_INSURER_ADDRESS = 902
+    E_INVALID_AMOUNT = 903
+    E_RECORD_NOT_FOUND = 910
+    E_PREMIUM_MISMATCH = 920
+    E_NO_AVAILABLE_LIABILITY_FOR_INSURED = 921
+    E_NO_AVAILABLE_LIABILITY_FOR_INSURER = 922
+    E_NOT_IMPLEMENTED = 999
+
+init:
+    contract.storage[FACTORY] = msg.sender
+
+code:
+    cmd = msg.data[0]
+    if cmd == "suicide" and msg.sender == contract.storage[FACTORY]:
+        suicide(msg.sender)
+
+    elif cmd == "deposit" and msg.value > 0:
+        contract.storage[msg.sender + R_MAX_LIABILITY] += msg.value
+        return(1)
+
+    elif cmd == "withdraw":
+        amount = msg.data[1]
+        if amount == 0:
+            return(E_INVALID_AMOUNT)
+
+        insurer_max_liability = contract.storage[msg.sender + R_MAX_LIABILITY]
+        insurer_locked = contract.storage[msg.sender + R_LOCKED]
+
+        if amount > insurer_max_liability - insurer_locked:
+            return(E_NO_AVAILABLE_LIABILITY_FOR_INSURER)
+
+        contract.storage[msg.sender + R_MAX_LIABILITY] -= amount
+        send(msg.sender, amount)
+        return(1)
+
+    elif cmd == "set":  # set reference <insured> <max_liability> <premium>
+        insured = msg.data[1]
+        max_liability = msg.data[2]
+        premium = msg.data[3]
+
+        if insured == 0 or insured >= 2 ** 160:
+            return(E_INVALID_INSURED_ADDRESS)
+
+        insured_idx = msg.sender * INSURED_OFFSET + insured * RECORD_SIZE
+        contracts.storage[insured_idx + R_MAX_LIABILITY] = max_liability
+        contracts.storage[insured_idx + R_PREMIUM] = premium
+        contracts.storage[insured_idx + R_LAST_UPDATED] = block.timestamp
+
+        # TODO add list of references
+        return(1)
+
+    elif cmd == "lock":  # lock a reference <insured> <liability> <premium>
+        insured = msg.data[1]
+        liability = msg.data[2]
+        premium = msg.data[3]
+
+        if insured == 0 or insured >= 2 ** 160:
+            return(E_INVALID_INSURED_ADDRESS)
+
+        insured_idx = msg.sender * INSURED_OFFSET + insured * RECORD_SIZE
+        if contract.storage[insured_idx + R_LAST_UPDATED] == 0:
+            return(E_RECORD_NOT_FOUND)
+
+        if premium != contract.storage[insured_idx + R_PREMIUM]:
+            # premium mismatch
+            return(E_PREMIUM_MISMATCH)
+
+        # TODO charge premium
+
+        insured_max_liability = contracts.storage[insured_idx + R_MAX_LIABILITY]
+        insured_locked = contracts.storage[insured_idx + R_LOCKED]
+        if liability > insured_max_liability - insured_locked:
+            return(E_NO_AVAILABLE_LIABILITY_FOR_INSURED)
+
+        insurer_max_liability = contract.storage[msg.sender + R_MAX_LIABILITY]
+        insurer_locked = contract.storage[msg.sender + R_LOCKED]
+        if liability > insurer_max_liability - insurer_locked:
+            return(E_NO_AVAILABLE_LIABILITY_FOR_INSURER)
+
+        contract.storage[insured_idx + R_LOCKED] += liability
+        contract.storage[msg.sender + R_LOCKED] += liability
+
+        return(1)
+
+    elif cmd == "release":  # release a reference <insured> <liability> <success>
+        insured = msg.data[1]
+        liability = msg.data[2]
+        success = msg.data[3]
+
+        if insured == 0 or insured >= 2 ** 160:
+            return(E_INVALID_INSURED_ADDRESS)
+
+        insured_idx = msg.sender * INSURED_OFFSET + insured * RECORD_SIZE
+        if contract.storage[insured_idx + R_LAST_UPDATED] == 0:
+            return(E_RECORD_NOT_FOUND)
+
+        contract.storage[insured_idx + R_LOCKED] -= liability
+        contract.storage[msg.sender + R_LOCKED] -= liability
+
+        if success == 0:
+            contract.storage[insured_idx + R_MAX_LIABILITY] -= liability
+            contract.storage[msg.sender + R_MAX_LIABILITY] -= liability
+
+            # TODO pay to insured / claimant
+
+        return(1)
+
+    return(E_INVALID_CMD)
