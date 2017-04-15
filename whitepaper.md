@@ -1,3 +1,5 @@
+New whitepaper in progress: https://www.dropbox.com/s/ramz8scma26mk4y/Network_State_Whitepaper%20%200.2.5.pdf?dl=0
+
 One very cool thing about the evolving distributed autonomous organization (DAC/DAO) layer on top of cryptocurrencies is that it increasingly allows programmable governance.
 
 This paper includes my best thoughts on an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
