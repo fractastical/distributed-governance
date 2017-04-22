@@ -55,4 +55,8 @@ Finalized initial status of partnership for two rainforest owners in Brazil that
 
 12:22 have both local ethers and Visual Code environments setup. Should be ready to start coding as soon as i'm done yoga.
 
-5:17 back from yoga / haircut. Took longer than expected.
+5:17 back from yoga / haircut. Took longer than expected. Giving up on aragon for the moment (Error: PortDuplexStream - disconnected)
+
+5:30 decided to use existing bootstrap template and use Gov as a service "GaaS". Neologism?
+
+6:26. Registered ibreathe.io. Looked at some earth day buzz. Talked with proof-of-walk team.
