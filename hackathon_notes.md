@@ -54,3 +54,5 @@ Finalized initial status of partnership for two rainforest owners in Brazil that
 12:04 idea: automated messaging bot that handles FAQ. Pinged World Land Trust. Hard time finding Breathe related domains
 
 12:22 have both local ethers and Visual Code environments setup. Should be ready to start coding as soon as i'm done yoga.
+
+5:17 back from yoga / haircut. Took longer than expected.
