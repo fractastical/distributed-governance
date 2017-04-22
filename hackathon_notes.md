@@ -15,4 +15,10 @@ SAT
 
 Plan is to setup Aragon. See what LD contracts they have and compare to our previous implementation, then to see what can be done to tie together a swarm interface to actual objects that would be tied to the tokens.
 
-8:45 Designer Martin is excited about idea and seems to want to join team.
+8:45 Designer Martin is excited about idea and seems to want to join team.  
+
+9:06 Introduction finished. Formal kickoff.
+
+9:15 Our own slack channel setup.
+
+9:27 Github repo: https://github.com/fractastical/breathe.git
