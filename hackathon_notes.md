@@ -40,3 +40,11 @@ JD: put together initial pieces into breate bootstrap
 JD: confirm rainforest acquisition partners
 
 JD: chat with Viktor Tron
+
+11:19am
+
+Finalized initial status of partnership for two rainforest owners in Brazil that are amenable to partnership and initial terms, as well as statement of intent.
+
+11:30am creation of dropbox with visual assets, etc.
+
+11:35 chat with bogdan. he apparently thought there was a different conference track that i was going to be at which is why he ended up in another team. will rejoin at some point later today after he helps.
