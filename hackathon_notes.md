@@ -25,8 +25,14 @@ Plan is to setup Aragon. See what LD contracts they have and compare to our prev
 
 9:44
 TODO:
+
 MB: working on interface design off sample sketchies
+
+
 JD: figure out to how to embed images with ipfs/swarm
+
 JD: get aragon working -- bug report filed
+
 JD: go through Ethers tutorial (direct ICO?)
+
 JD: put together initial pieces into breate bootstrap
