@@ -48,3 +48,9 @@ Finalized initial status of partnership for two rainforest owners in Brazil that
 11:30am creation of dropbox with visual assets, etc.
 
 11:35 chat with bogdan. he apparently thought there was a different conference track that i was going to be at which is why he ended up in another team. will rejoin at some point later today after he helps.
+
+11:40 start with dropbox paper. Listed partners
+
+12:04 idea: automated messaging bot that handles FAQ. Pinged World Land Trust. Hard time finding Breathe related domains
+
+12:22 have both local ethers and Visual Code environments setup. Should be ready to start coding as soon as i'm done yoga.
