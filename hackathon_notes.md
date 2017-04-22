@@ -36,3 +36,7 @@ JD: get aragon working -- bug report filed
 JD: go through Ethers tutorial (direct ICO?)
 
 JD: put together initial pieces into breate bootstrap
+
+JD: confirm rainforest acquisition partners
+
+JD: chat with Viktor Tron
