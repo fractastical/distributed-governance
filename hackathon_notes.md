@@ -60,3 +60,36 @@ Finalized initial status of partnership for two rainforest owners in Brazil that
 5:30 decided to use existing bootstrap template and use Gov as a service "GaaS". Neologism?
 
 6:26. Registered ibreathe.io. Looked at some earth day buzz. Talked with proof-of-walk team.
+
+TODOS:
+
+Deploy existing work to ibreathe.io
+
+video script? maybe with slideshow
+
+swarm/ipfs
+
+6:56. Login to AgroNow. Get screenshots. Add Partner section to front page. Ping Juan from IPFS to see if he can formally advise this project.
+
+7:34pm Recorded a audio intro. Handed off to video editor friend who is going to mix it with some time lapse stock footage he has sitting around.
+
+Thinking about reputation, esp. of partners. Should we have some built in reputation engine at launch?
+
+7:41pm just got video back. whee that was fast.
+
+8pm tried to hire voice actor via fiverr.
+
+10:17 been working with bogdan in adding rainforest images and documetning flow, updating IMPACT.
+
+
+10:36 fatigue setting in.
+
+11:41 problems swapping assets back and forth. designer has disappeared, no sign of returning.
+
+11:59 need to make another todo list:
+
+make another attempt at image loading via IPFS (not working don't know why)
+
+add partner logos and
+
+1:33am where did the time go? diet coke. lots of troubleshooting with geth stuff. Bogdan left around 12:50
