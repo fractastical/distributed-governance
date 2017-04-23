@@ -93,3 +93,5 @@ make another attempt at image loading via IPFS (not working don't know why)
 add partner logos and
 
 1:33am where did the time go? diet coke. lots of troubleshooting with geth stuff. Bogdan left around 12:50
+
+2:20 mind getting a bit foggy. think i want to make a "certificate" for a purchase. also super hungry. conference organizers promised us pizza at midnight but it is nowhere to be seen.
