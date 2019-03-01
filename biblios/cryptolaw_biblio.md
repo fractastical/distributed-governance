@@ -27,16 +27,25 @@ http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwi
 Nick Szabo, Wet Code
 http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html
 
-**2014**
+**2009**
 
-Harvard Summit
+https://www.amazon.com/DAEMON-Daemon-Daniel-Suarez/dp/0451228731
+
+**2013**
+Larimer, DACs Revisited
+https://letstalkbitcoin.com/dac-revisited
+
+**2014**
+Vitalik Buterin, "DAOs, DACs, DAs and More: An Incomplete Terminology Guide,"
+https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+
 
 **2015**
 
-First Coincenter paper
-
-Distributed Collaborative Organizationss
+Distributed Collaborative Organizations
 https://www.shareable.net/blog/interviewed-joel-dietz-on-distributed-collaborative-organizations
+
+First Coincenter
 
 Houman Shadab, "Empowering Distributed Autonomous Companies"
 https://lawbitrage.typepad.com/blog/2015/02/empowering-distributed-autonomous-companies.html
@@ -50,6 +59,13 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&v
 
 PdF + cardoso papers
 http://www.hup.harvard.edu/catalog.php?isbn=9780674976429
+
+**2018**
+
+Coin Center Framework
+https://coincenter.org/entry/framework-for-securities-regulation-of-cryptocurrencies
+
+**2019**
 
 Vlad Zamfir For a new crypto legal system
 https://medium.com/cryptolawreview/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827
