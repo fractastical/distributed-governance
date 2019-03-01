@@ -1,10 +1,15 @@
 Evolving governance via the blockchain
 ======================
 
-test update
-This project has evolved in three stages.
+This project is primarily an academic and intellectual resource for people working in the field of "distributed governance." It attempts to catalogue the history of attempts to implement solutions to public good problems, especially blockchains, and the intellectual milieu in which these attempts originated.
 
- 1) 2014 lightpapers on governance and reputation
+Cryptolaw bibliography
+Writings by Nick Szabo
+Writings by Vitalik Buterin
+Writings by Others
+("Swarm Intelligence bibliography" swarm_system.md)
+
+Examples: 2014 lightpapers on governance and reputation
 
      (a) Distributed Governance: https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
 
