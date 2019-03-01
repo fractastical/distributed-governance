@@ -19,7 +19,7 @@ We present the most important work of the blockchain community on the trade of a
 
 **1994**
 
-"Smart Contracts"
+Nick Szabo, Smart Contracts
 http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html
 
 **2006**
