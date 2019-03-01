@@ -9,7 +9,6 @@ Early history on smart contracts includes the definitions of Nick Szabo, then im
 
  Since then several blockchains have attempted to implement governance as part of their core evolution mechanisms, including DASH, Tezos, and others.
 
-
 ##Bibliographies
 
 DAO history
@@ -23,14 +22,3 @@ Writings by Vitalik Buterin
 Public key cryptography
 Consensus design
 Game theory
-
-
-##DAO History
-
-Reference by Larimer
-Reference by Vitalik
-Bitcoin foundation implements Blockchain voiting
-"The DAO"
-Ukraine vote?
-
-https://www.shareable.net/blog/interviewed-joel-dietz-on-distributed-collaborative-organizations
