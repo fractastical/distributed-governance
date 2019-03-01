@@ -15,7 +15,6 @@ We present the most important work of the blockchain community on the trade of a
 
 
 
-
 Nick Szabo - smart contract definitions
 
 Harvard Summit

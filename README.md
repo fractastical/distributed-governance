@@ -1,40 +1,36 @@
 Evolving governance via the blockchain
 ======================
 
-This project is primarily an academic and intellectual resource for people working in the field of "distributed governance." It attempts to catalogue the history of attempts to implement solutions to public good problems, especially blockchains, and the intellectual milieu in which these attempts originated.
+The goal of this project is to be the definitive resource for attempts to build 'distributed governance' systems, including but not limited to blockchains.
 
-Cryptolaw bibliography
+##History
+
+Early history on smart contracts includes the definitions of Nick Szabo, then implementation called 'Bitcoin' which had a 'governance only where necessary model', then the Ethereum.
+
+ Since then several blockchains have attempted to implement governance as part of their core evolution mechanisms, including DASH, Tezos, and others.
+
+
+##Bibliographies
+
+DAO history
+Cryptolaw
 Writings by Nick Szabo
 Writings by Vitalik Buterin
-Writings by Others
-("Swarm Intelligence bibliography" swarm_system.md)
+("Swarm Intelligence bibliography" ../biblios/swarm_systems.md)
 
-Examples: 2014 lightpapers on governance and reputation
+##Building blocks
 
-     (a) Distributed Governance: https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
-
-     (b) Reputation ("Green Ether") https://github.com/fractastical/etherea/blob/master/green_ether.md
-
-
- 2) 2017 Network State whitepaper (https://github.com/fractastical/distributed-governance/blob/master/Network_State_Whitepaper.pdf
-)
+Public key cryptography
+Consensus design
+Game theory
 
 
-3) Implementations of the Network State whitepaper
+##DAO History
 
-    (a) Swarm Fund
+Reference by Larimer
+Reference by Vitalik
+Bitcoin foundation implements Blockchain voiting
+"The DAO"
+Ukraine vote?
 
-       (i) (v. 81, @fractastical co-author)
-       (ii) current version: https://docs.swarm.fund/swarm-whitepaper-eng.pdf
-
-    (b) Black Sheep (https://www.weareblacksheep.org/)
-
-    (c) Numundo (under development)
-
-There are several active groups which explore and attempt to promote these solutions :
-
-     Such as the Decentralized Autonomous Society group on Facebook: https://www.facebook.com/groups/579940655425355/
-
-     The physical meetup: http://www.meetup.com/Decentralized-Autonomous-Society-Meetup-Palo-Alto
-
-     And an evolving thinktank
+https://www.shareable.net/blog/interviewed-joel-dietz-on-distributed-collaborative-organizations
