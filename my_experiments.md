@@ -56,6 +56,11 @@
  
  - It now has 1.3M users
 
+### Crypto Gifting
+
+  - Ran a holiday charity drive encouraging prominent crypto people to donate to charity (https://sites.google.com/view/crypto-gifting-org
+)
+
 ### Swarm Fund
 
   - relaunched via an ERC20 token 
