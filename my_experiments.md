@@ -17,9 +17,9 @@ Previously was a software engineer and enterprise software architect for 10+ yea
  
 ### Decentralized Autonomous Society 
 
-- Along with mutiple Ethereum Foundation employees and other blockchain enthusiasts created the first group (https://www.youtube.com/watch?v=iubsqehXUoY)
+- Along with mutiple Ethereum Foundation employees and other blockchain enthusiasts created the first group dedicated to dicussing decentralized governance (https://www.youtube.com/watch?v=iubsqehXUoY)
 
-- ~35 real life meetups 
+- ~35 real life meetups including talks by Ralph Merkle, etc
 
 - ~5000 members on facebook. ~2000 meetup members    
 
