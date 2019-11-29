@@ -1,9 +1,7 @@
 
-Previously was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
-
 ### Cryptoeconomics 
 
-I co-authored the top cited piece on Google Scholar on the topic of the convergence of cryptoeconomic primatives and swarm intellignce
+  - top cited piece on Google Scholar on Cryptoeconomics
 (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=cryptoeconomic&btnG=)
 
 ### EtherCasts 
@@ -67,6 +65,9 @@ I co-authored the top cited piece on Google Scholar on the topic of the converge
   - organization later signed major partnerships with Siemens, etc 
 
   
+
+Previously was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
+
 
 
  
