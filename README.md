@@ -19,7 +19,7 @@ Early history on smart contracts includes the definitions of Nick Szabo, then im
 
 Since then several blockchains have attempted to implement governance as part of their core evolution mechanisms, including DASH, Tezos, and others.
 
-Additionally they have followed diverse strategies regarding integration into the existing legal system. Partially due to the troubled history of early digital currencies (DigiCash, E-gold), the first generation of blockchains was built to be censorship resistant. As second generation blockchains have obtained legal scrutiny and attempted to integrate into legal systems they have at times questioned some of the design decisions behind the first generation (as per [current debate between Nick Szabo and Vlad Zamfir](https://twitter.com/VladZamfir/status/1089041262626390016 ).
+Additionally they have followed diverse strategies regarding integration into the existing legal system. Partially due to the troubled history of early digital currencies (DigiCash, E-gold), the first generation of blockchains was built to be censorship resistant. As second generation blockchains have obtained legal scrutiny and attempted to integrate into legal systems they have at times questioned some of the design decisions behind the first generation (as per [current debate between Nick Szabo and Vlad Zamfir](https://twitter.com/VladZamfir/status/1089041262626390016) ).
 
 The most recent version of this bibliography was created to inform this debate so that common terminology and historical references can be used as the space evolves.
 
