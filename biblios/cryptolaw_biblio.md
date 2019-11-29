@@ -22,6 +22,11 @@ We present the most important work of the blockchain community on the trade of a
 Nick Szabo, Smart Contracts
 http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html
 
+**1998**
+
+Nick Szabo, Secure Property Titles with Owner Authority
+https://nakamotoinstitute.org/secure-property-titles/
+
 **2006**
 
 Nick Szabo, Wet Code
