@@ -17,9 +17,9 @@ The goal of this project is to be the definitive resource for attempts to build 
 
 Early history on smart contracts includes the definitions of Nick Szabo, then implementation called 'Bitcoin' which had a 'governance only where necessary model.' Ethereum iterated on various particulars, esp. by embedding a form of smart contracts into the virtual machine of their blockchain. They did not, however, make this binding for any on-going decision making. That said, they have used these techniques as a polling technique.
 
-Since then several blockchains have attempted to implement governance as part of their core evolution mechanisms, including DASH, Tezos, and others.
+Since then several blockchains have attempted to implement governance as part of their core evolution mechanisms, including DASH, Tezos, and others. There was also a paper by Ralph Merkle on DAO Democracy (https://via.hypothes.is/http://fractastical.github.io/dao_democracy.html#annotations:8XjXGDG-EeaUHI8WMrZ4IA).
 
-Additionally they have followed diverse strategies regarding integration into the existing legal system. Partially due to the troubled history of early digital currencies (DigiCash, E-gold), the first generation of blockchains was built to be censorship resistant. As second generation blockchains have obtained legal scrutiny and attempted to integrate into legal systems they have at times questioned some of the design decisions behind the first generation (as per [current debate between Nick Szabo and Vlad Zamfir](https://twitter.com/VladZamfir/status/1089041262626390016) ).
+Additionally they have followed diverse strategies regarding integration into the existing legal system. Partially due to the troubled history of early digital currencies (DigiCash, E-gold), the first generation of blockchains was built to be censorship resistant. As second generation blockchains have obtained legal scrutiny and attempted to integrate into legal systems they have at times questioned some of the design decisions behind the first generation (as per [current debate between Nick Szabo and Vlad Zamfir](https://twitter.com/VladZamfir/status/1089041262626390016)).
 
 The most recent version of this bibliography was created to inform this debate so that common terminology and historical references can be used as the space evolves.
 
