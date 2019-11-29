@@ -38,21 +38,25 @@ https://www.amazon.com/DAEMON-Daemon-Daniel-Suarez/dp/0451228731
 
 **2013**
 Larimer, DACs Revisited
+
 https://letstalkbitcoin.com/dac-revisited
 
 **2014**
 Vitalik Buterin, "DAOs, DACs, DAs and More: An Incomplete Terminology Guide,"
+
 https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
 
 **2015**
 
 Distributed Collaborative Organizations
+
 https://www.shareable.net/blog/interviewed-joel-dietz-on-distributed-collaborative-organizations
 
 First Coincenter
 
 Houman Shadab, "Empowering Distributed Autonomous Companies"
+
 https://lawbitrage.typepad.com/blog/2015/02/empowering-distributed-autonomous-companies.html
 
 **2017**
@@ -60,17 +64,21 @@ https://lawbitrage.typepad.com/blog/2015/02/empowering-distributed-autonomous-co
 SEC DAO ruling, (https://www.sec.gov/litigation/investreport/34-81207.pdf)
 
 Gav Wood on Alegality
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi5ktLc68jgAhWI_p8KHYMDDbYQwqsBMAB6BAgGEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZh9BxYTSrGU&usg=AOvVaw27zMmK36fwv9MlWXZLsjYF
 
 PdF + cardoso papers
+
 http://www.hup.harvard.edu/catalog.php?isbn=9780674976429
 
 **2018**
 
 Coin Center Framework
+
 https://coincenter.org/entry/framework-for-securities-regulation-of-cryptocurrencies
 
 **2019**
 
 Vlad Zamfir For a new crypto legal system
+
 https://medium.com/cryptolawreview/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827
