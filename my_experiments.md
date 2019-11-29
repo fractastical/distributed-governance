@@ -15,13 +15,13 @@ Previously was a software engineer and enterprise software architect for 10+ yea
 
 - served as office manager for the Silicon Valley Ethereum office when it existed 
  
-### Decentralized Autonomous Society (https://www.facebook.com/groups/579940655425355/)
+### Decentralized Autonomous Society
 
-- Along with mutiple Ethereum Foundation employees and other blockchain enthusiasts created the first group dedicated to dicussing decentralized governance (https://www.youtube.com/watch?v=iubsqehXUoY)
+- Along with mutiple Ethereum Foundation employees and other blockchain enthusiasts created the first group dedicated to dicussing decentralized governance (https://www.youtube.com/watch?v=iubsqehXUoY) 
 
 - ~35 real life meetups including talks by Ralph Merkle, etc
 
-- ~5000 members on facebook. ~2000 meetup members    
+- ~5200 members on Facebook (https://www.facebook.com/groups/579940655425355/) ~1200 meetup members    
 
 ### Holon
 
