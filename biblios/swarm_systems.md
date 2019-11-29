@@ -1,4 +1,4 @@
-###Bibliography
+### Bibliography
 
 "Swarm intelligence (SI) is the collective behavior of decentralized, self-organized systems, natural or artificial"  
 
