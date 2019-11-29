@@ -55,6 +55,8 @@ I co-authored the top cited piece on Google Scholar on the topic of the converge
  - Got a YCombinator interview for this project ( https://youtu.be/p135D4Tv1mM )
 
  - Consensys later internalized this project and renamed it MetaMask
+ 
+ - It now has 1.3M users
 
 ### Swarm Fund
 
