@@ -1,5 +1,5 @@
 
-Previously was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn.
+Previously was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
 
 ### EtherCasts 
 
@@ -11,11 +11,11 @@ Previously was a software engineer and enterprise software architect for 10+ yea
 
 ### Ethereum SF
 
-- co-founded the Ethereum bay area meetups and helped organize the first ~20 meetups (~5000 people on MEetup) 
+- co-founded the Ethereum bay area meetups and helped organize the first ~20 meetups (~4700 people on MEetup) 
 
-- served as office manager fir the Silicon Valley Ethereum office when it existed 
+- served as office manager for the Silicon Valley Ethereum office when it existed 
  
-### Decentralized Autonomous Society 
+### Decentralized Autonomous Society (https://www.facebook.com/groups/579940655425355/)
 
 - Along with mutiple Ethereum Foundation employees and other blockchain enthusiasts created the first group dedicated to dicussing decentralized governance (https://www.youtube.com/watch?v=iubsqehXUoY)
 
@@ -28,6 +28,8 @@ Previously was a software engineer and enterprise software architect for 10+ yea
 - Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (www.meta-villa.com)   
 
 - Contributed to the intellectual discourses on these topics by writing the first distributed governance and reputation system whitepapers in 2014 
+
+- Also periodicially involved in the Platform Cooperativism movement 
 
 ### Swarm 1.0 
 
