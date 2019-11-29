@@ -25,7 +25,7 @@ Previously was a software engineer and enterprise software architect for 10+ yea
 
 ### Holon
 
-- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/, www.meta-villa.com)   
+- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (www.meta-villa.com)   
 
 - Contributed to the intellectual discourses on these topics by writing the first distributed governance and reputation system whitepapers in 2014 
 
@@ -53,7 +53,7 @@ Previously was a software engineer and enterprise software architect for 10+ yea
 
   - relaunched via an ERC20 token 
 
-  - created distributed masternode system in which masternode holders elect a council of 5 members who operate the organization (~393 Masternodes)
+  - created distributed masternode system in which masternode holders elect a council of 5 members who operate the organization (~393 Masternodes) (https://masternodes.swarm.fund/#/)
 
   - organization later signed major partnerships with Siemens, etc 
 
