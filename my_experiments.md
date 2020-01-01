@@ -1,16 +1,19 @@
+Related hings I've done in roughly chronological order. Before all this was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
+
+
 
 ### Cryptoeconomics 
 
   - top cited piece on Google Scholar on Cryptoeconomics
 (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=cryptoeconomic&btnG=)
 
-### EtherCasts 
+### EtherCasts  (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=cryptoeconomic&btnG=)
 
 - Early dev education around Ethereum smart contracts 
 
 - created first blockchain marriage contract and other sample dapps
 
-- ~4000 subscribers
+- ~3700 subscribers (https://www.youtube.com/user/EtherCasts)
 
 ### Ethereum SF
 
@@ -28,7 +31,7 @@
 
 ### Holon
 
-- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (www.meta-villa.com)   
+- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (now: www.meta-villa.com)   
 
 - Contributed to the intellectual discourses on these topics by writing the first distributed governance and reputation system whitepapers in 2014 
 
@@ -36,15 +39,15 @@
 
 ### Swarm 1.0 
 
-- created first real world tokenization platform including its own blockchain based governance system 
+- Created first real world tokenization platform including its own blockchain based governance system 
 
-- included a lightwallet implementation supporting Bitcoin and Counterparty based colored coins 
+- Included a lightwallet implementation supporting Bitcoin and Counterparty based colored coins 
 
-- Conducted first  vote where a major community decision was made via on a blockchain 
+- Conducted first vote where a major community decision was made via on a blockchain 
 
 - Conducted first election where a non-profit foundation elected its board via a blockchain vote 
 
-- approximately ~1000 participants 
+- Approximately ~1000 participants 
 
 ### Metamask (was Vapor)
 
@@ -54,14 +57,14 @@
 
  - Consensys later internalized this project and renamed it MetaMask
  
- - It now has 1.3M users
+ - Now has 1.3M users
 
 ### Crypto Gifting
 
   - Ran a holiday charity drive encouraging prominent crypto people to donate to charity (https://sites.google.com/view/crypto-gifting-org
 )
 
-### Swarm Fund
+### Swarm 2.0 (Swarm Fund)
 
   - relaunched via an ERC20 token 
 
@@ -71,7 +74,6 @@
 
   
 
-Previously was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
 
 
 
