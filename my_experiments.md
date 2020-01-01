@@ -1,4 +1,4 @@
-Related hings I've done in roughly chronological order. Before all this was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
+Related things I've done in roughly chronological order. Before all this was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
 
 
 
