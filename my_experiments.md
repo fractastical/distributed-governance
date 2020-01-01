@@ -7,7 +7,7 @@ Related things I've done in roughly chronological order. Before all this was a s
   - top cited piece on Google Scholar on Cryptoeconomics
 (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=cryptoeconomic&btnG=)
 
-### EtherCasts  (https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=cryptoeconomic&btnG=)
+### EtherCasts  
 
 - Early dev education around Ethereum smart contracts 
 
@@ -49,13 +49,13 @@ Related things I've done in roughly chronological order. Before all this was a s
 
 - Approximately ~1000 participants 
 
-### Metamask (was Vapor)
+### Metamask 
 
  - attended DevCon 0 and with Martin Becze wrote the first ever accepted DevGrants grant for "Vapor," a javascript light client based via a browser extension 
 
  - Got a YCombinator interview for this project ( https://youtu.be/p135D4Tv1mM )
 
- - Consensys later internalized this project and renamed it MetaMask
+ - Consensys later internalized Vapor and renamed it MetaMask
  
  - Now has 1.3M users
 
