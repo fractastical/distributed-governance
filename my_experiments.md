@@ -1,4 +1,4 @@
-Related things I've done in roughly chronological order. Before all this was a software engineer and enterprise software architect for 10+ years with two degrees in philososophy from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428) 
+Related things I've done in roughly chronological order. Before all this was a software architect for 10+ years with programming awards from Google, Salesforce and Top Coder and degrees from Brown and Penn (https://everipedia.org/wiki/lang_en/joel-dietz) (https://developer.salesforce.com/index.php?title=Joel_Dietz_Success_Story&oldid=43428)(http://linkedin.com/joel.a.dietz)
 
 
 
@@ -17,7 +17,7 @@ Related things I've done in roughly chronological order. Before all this was a s
 
 ### Ethereum SF
 
-- co-founded the Ethereum bay area meetups and helped organize the first ~20 meetups (~4700 people on MEetup) 
+- co-founded the Ethereum SF and Silicon Valley meetups and helped organize the first ~20 meetups (~4700 people on Meetup) 
 
 - served as office manager for the Silicon Valley Ethereum office when it existed 
  
@@ -31,7 +31,7 @@ Related things I've done in roughly chronological order. Before all this was a s
 
 ### Holon
 
-- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (now: www.meta-villa.com)   
+- Created first and only continuously operating "holon" , a co-living space based on holonic principles (https://techcrunch.com/video/love-nests-co-living-space-helps-birds-fly/) (now: www.meta-villa.com) which has run hundreds of events 
 
 - Contributed to the intellectual discourses on these topics by writing the first distributed governance and reputation system whitepapers in 2014 
 
@@ -64,15 +64,25 @@ Related things I've done in roughly chronological order. Before all this was a s
   - Ran a holiday charity drive encouraging prominent crypto people to donate to charity (https://sites.google.com/view/crypto-gifting-org
 )
 
-### Swarm 2.0 (Swarm Fund)
+### Swarm Fund
 
-  - relaunched via an ERC20 token 
+  - Advised this further iteration of Swarm  
 
   - created distributed masternode system in which masternode holders elect a council of 5 members who operate the organization (~393 Masternodes) (https://masternodes.swarm.fund/#/)
 
-  - organization later signed major partnerships with Siemens, etc 
+  - organization later signed major partnerships with Siemens, etc and did a few token issuances (art token, masternode fund, etc)
 
   
+### BTG Pactual / Tezos
+
+  - worked on BTG Pactual team to introduce $1B of digital assets
+
+  - Introduced BTG Pactual and Tezos teams 
+
+  - Advised creating of $10mm real estate asset 
+
+ 
+
 
 
 
