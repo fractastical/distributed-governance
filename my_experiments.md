@@ -81,7 +81,14 @@ Related things I've done in roughly chronological order. Before all this was a s
 
   - Advised creation of $10mm real estate asset 
 
- 
+   
+### Sciath 
+
+  - ran deep research program on unique data sources that can be used for crypto trading 
+
+  - identified high value strategies and deployed behind an operational hedge fund 
+
+
 
 
 
