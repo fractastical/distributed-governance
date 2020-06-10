@@ -75,11 +75,9 @@ Related things I've done in roughly chronological order. Before all this was a s
   
 ### BTG Pactual / Tezos
 
-  - worked on BTG Pactual team to introduce $1B of digital assets
+  - worked with BTG Pactual team to introduce $1B of digital assets 
 
-  - Introduced BTG Pactual and Tezos teams 
-
-  - Advised creation of $10mm real estate asset 
+  - Introduced BTG Pactual and Tezos teams and advised creation of $10mm real estate asset 
 
    
 ### Sciath 
@@ -88,6 +86,11 @@ Related things I've done in roughly chronological order. Before all this was a s
 
   - identified high value strategies and deployed behind an operational hedge fund 
 
+
+### Crypto Masters 
+
+  - recruited leading professors teaching technology, trading, and digital assets and packaged as online video education 
+   
 
 
 
