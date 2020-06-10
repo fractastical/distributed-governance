@@ -79,7 +79,7 @@ Related things I've done in roughly chronological order. Before all this was a s
 
   - Introduced BTG Pactual and Tezos teams 
 
-  - Advised creating of $10mm real estate asset 
+  - Advised creation of $10mm real estate asset 
 
  
 
