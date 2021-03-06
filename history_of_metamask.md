@@ -6,7 +6,7 @@ History of Metamask
 
 2.  Joel goes back to Silicon Valley. Converses with Martin Becze (https://github.com/wanderer) about project who is doing JS coding for the Ethereum Foundation. Starts writing project proposal. Recruits Kumavis who had already built a Javascript simulator . Kumavis said he would need funding to quit his job. Joel is currently also running bitcoin based crowdfunding platform at this time (Swarm) which is doing low volume, but project is listed there.
 
-3.  Joel, Martin and Kumavis apply to YCombinator and get interview (https://youtu.be/p135D4Tv1mM). YCombinator states they aren’t sure about the utility of such a product and don’t give funding.
+3.  Joel, Martin and Kumavis apply to YCombinator and get interview (https://youtu.be/p135D4Tv1mM). YCombinator states they aren’t sure about the utility of such a product and don’t give funding with the comment, "Unfortunately, we've decided not to fund Vapor. We were impressed by the three of you and the demo we saw, but we weren't convinced that this would grow large among mainstream users.... We'd be happy to hear from you again if you figure out a clearer plan to get widespread adoption of smart contracts."
 
 4.  Kumavis begins serious work on building light client. Says his teammates at Apple might also be willing to leave apple to work on it. Joel and Martin finish the application to Eth grants (https://123mastery.com/wp-content/uploads/2020/10/VAPOR-Bursury-Application.docx), including a small carve out for design and reimbursements for Joel for costs he has incurred so far.
 
