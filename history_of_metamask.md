@@ -21,5 +21,5 @@ History of Metamask
 9. Joel writes emails to people from Consensys to find out what happened but no one responds (Dec 27, 2015, Sep 8, 2016). 
 
 
-Some people also ask about the history of the fox. Basically Kumavas and myself (but esp. Kumavis) were Starfox fans and we thought it would be a cool 3d logo. 
+Some people also ask about the history of the fox. Basically Kumavis and myself (but esp. Kumavis) were Starfox fans and we thought it would be a cool 3d logo. 
 
