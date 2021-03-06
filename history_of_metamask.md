@@ -1,6 +1,6 @@
 History of Metamask
 
-0. Joel co-founds Ethereum meetups in Silicon Valley and Ethercasts youtube channel (https://www.youtube.com/channel/UCruzgbuOs-7X9BINIGPAsrQ). Kumavis presents his atari-themed ethereum browser / serpent interpreter at one early meetup. (FWIW Joel worked on the Ethereum project full time for a few months then worked on a colored coin project for awhile after the Ethereum sale was delayed, he also hosted Ethereum core devs and the Ethereum Silicon Valley office) 
+0. Joel co-founds Ethereum meetups in Silicon Valley and Ethercasts youtube channel (https://www.youtube.com/channel/UCruzgbuOs-7X9BINIGPAsrQ). Kumavis presents his atari-themed ethereum browser / serpent interpreter at one early meetup.
 
 1.  Joel goes to Devcon 0 in Berlin. Multiple people mention need for Javascript light wallet. Talks with Vitalik and Gav in office. They like idea. Vitalik gives name “Vapor” and said that Eth Grants would interested in funding. 
 
