@@ -11,10 +11,19 @@ History of Metamask
 4.  Kumavis begins serious work on building light client. Says his teammates at Apple might also be willing to leave apple to work on it. Joel and Martin finish the application to Eth grants (https://123mastery.com/wp-content/uploads/2020/10/VAPOR-Bursury-Application.docx), including a small carve out for design and reimbursements for Joel for costs he has incurred so far.
 
 5.  Joel is in frequent communication with Wendell Davis of the Ethereum Foundation who is managing the program and gives indication that the grant has been awarded.
-   
-
+  
 6.  ____ ? (There is now a well researched article that covers this period that includes input from Kumavis: https://www.readthegeneralist.com/briefing/metamask)
-    
+ 
+ <img width="574" alt="Screenshot 2021-12-14 at 15 15 24" src="https://user-images.githubusercontent.com/589191/145991104-b9f68882-a74a-4475-aac0-57fcbd924b06.png">
+<img width="825" alt="Screenshot 2021-12-14 at 15 16 03" src="https://user-images.githubusercontent.com/589191/145991141-54a17942-0db6-4288-ad9c-ddc4a2e78f11.png">
+<img width="796" alt="Screenshot 2021-12-14 at 15 16 10" src="https://user-images.githubusercontent.com/589191/145991164-27e6e8d2-376e-41a6-b295-6923afc74894.png">
+<img width="830" alt="Screenshot 2021-12-14 at 15 16 16" src="https://user-images.githubusercontent.com/589191/145991184-b787addb-fdac-4331-942d-b208f5aa1ec9.png">
+<img width="798" alt="Screenshot 2021-12-14 at 15 16 23" src="https://user-images.githubusercontent.com/589191/145991204-da211a30-c1df-424d-bbb4-d4ea84bbf4bc.png">
+<img width="802" alt="Screenshot 2021-12-14 at 15 16 47" src="https://user-images.githubusercontent.com/589191/145991226-3153eaae-e26e-4392-8bd8-4c2383c8015b.png">
+<img width="810" alt="Screenshot 2021-12-14 at 15 17 29" src="https://user-images.githubusercontent.com/589191/145991259-0d84c39c-12e3-4f2b-96f0-a1058b655270.png">
+<img width="790" alt="Screenshot 2021-12-14 at 15 17 37" src="https://user-images.githubusercontent.com/589191/145991277-1f87d27f-9f0b-4f08-869d-5b2139598a4b.png">
+<img width="813" alt="Screenshot 2021-12-14 at 15 17 46" src="https://user-images.githubusercontent.com/589191/145991317-ae03dc85-5871-4ce8-bfdb-a49035778540.png">
+
 7. Joel awakes to find the channels renamed and the GitHub organization renamed and himself removed from the GitHub organisation. Licenses indicating shared ownership of the project appear to also be removed. 
  
 8. Joel later finds out the new name of the project “Metamask” is now a Consensys project.
