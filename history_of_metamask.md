@@ -12,11 +12,12 @@ History of Metamask
 
 5.  Joel is in frequent communication with Wendell Davis of the Ethereum Foundation who is managing the program and gives indication that the grant has been awarded.
    
-6.  ____ ?
+
+6.  ____ ? (There is now a well researched article that covers this period that includes input from Kumavs: https://www.readthegeneralist.com/briefing/metamask)
     
 7. Joel awakes to find the channels renamed and the GitHub organization renamed and himself removed from the GitHub organisation. Licenses indicating shared ownership of the project appear to also be removed. 
  
-8. Joel later finds out the new name of the project “Metamask”  is now a Consensys project.
+8. Joel later finds out the new name of the project “Metamask” is now a Consensys project.
 
 9. Joel writes emails to people from Consensys to find out what happened but no one responds (Dec 27, 2015, Sep 8, 2016). 
 
