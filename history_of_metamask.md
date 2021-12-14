@@ -13,7 +13,7 @@ History of Metamask
 5.  Joel is in frequent communication with Wendell Davis of the Ethereum Foundation who is managing the program and gives indication that the grant has been awarded.
    
 
-6.  ____ ? (There is now a well researched article that covers this period that includes input from Kumavs: https://www.readthegeneralist.com/briefing/metamask)
+6.  ____ ? (There is now a well researched article that covers this period that includes input from Kumavis: https://www.readthegeneralist.com/briefing/metamask)
     
 7. Joel awakes to find the channels renamed and the GitHub organization renamed and himself removed from the GitHub organisation. Licenses indicating shared ownership of the project appear to also be removed. 
  
