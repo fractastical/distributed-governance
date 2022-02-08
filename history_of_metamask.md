@@ -1,7 +1,7 @@
 
 To whom it may concern,
 
-After taking a hiatus from crypto I began my formal re-entry early last year (early 2021) due to requests for me to be involved in NFT projects. My own opinions on crypto and web3 are somewhat mixed. First, I believe it has opened up a world of innovation that would not exist otherwise. Second, much like ICOs, the propensity for all sorts of scams, fraud, and dishonest behaviour is the norm rather than the exception in this space. This makes it hard for me to fully endorse “crypto” as I have seen all its sides. 
+After taking a hiatus from crypto I began my formal re-entry early last year (early 2021) due to requests for me to be involved in NFT projects. My own opinions on crypto and web3 are somewhat mixed. First, I believe it has opened up a world of innovation that would not exist otherwise. Second, much like ICOs, the propensity for all sorts of scams, fraud, and dishonest behaviour is the norm rather than the exception in this space. 
 
 Also I should state that I think of myself as a poet first, a game designer second, an intellectual historian third, and a technical wizard fourth. I have a wide breath of knowledge that often allows me to figure out where market opportunity exists and to be early in things that turn out to have large value (financial or otherwise). 
 
