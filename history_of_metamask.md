@@ -25,10 +25,7 @@ Best,
 Joel Dietz 
 
 
-====
-
-
-History of Metamask
+==== What follows is my version controlled reconstruction of the history of Metamask based on available facts as they have been released by the media == 
 
 
 
