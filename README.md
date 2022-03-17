@@ -36,5 +36,6 @@ The most recent version of this bibliography was created to inform this debate s
 
 "DCO" - Decentralized Collaborative Organization, a term invented at the Harvard-MIT-Stanford summits by a team of scholars in order to render a DAO integratable into existing cooperative style law
 
+[Fractal Renaissance](fractal_renaissance)
 
 [A brief list of my own experiments](my_work.md)
