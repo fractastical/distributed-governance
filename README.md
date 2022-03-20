@@ -1,7 +1,7 @@
 Evolving governance via the blockchain
 ======================
 
-The goal of this project is to be the definitive resource for attempts to build 'distributed governance' systems that affect the future of sovereignty, including but not limited to blockchains. It was started via converstions with Vitalik in 2014 that lead to the first reputational system and governance related whitepapers. 
+The goal of this project is to be the definitive resource for attempts to build 'distributed governance' systems that affect the future of sovereignty, including but not limited to blockchains. It was started via converstions with Vitalik in 2014 that lead to the first reputational system and governance related whitepapers, as well as the Decentralized Autonomous Society which met appoximately 36 times in 2015-2018 (https://www.youtube.com/watch?v=iubsqehXUoY). 
 
 ## Bibliographies
 
