@@ -11,6 +11,7 @@ The goal of this project is to be the definitive resource for attempts to build 
 
 [Most important works on swarm intellgence](biblios/swarm_systems.md)
 
+[Most important works on nomic](biblios/nomic.md)
 
 
 ## History
