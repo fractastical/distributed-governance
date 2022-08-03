@@ -1,0 +1,344 @@
+\documentclass[11pt]{article}
+	\usepackage{minted}
+
+
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%\pdfminorversion=4
+	% NOTE: To produce blinded version, replace "0" with "1" below.
+	\newcommand{\blind}{0}
+	
+	%%%%%%% IISE Transactions margin specifications %%%%%%%%%%%%%%%%%%%
+	% DON'T change margins - should be 1 inch all around.
+	\addtolength{\oddsidemargin}{-.5in}%
+	\addtolength{\evensidemargin}{-.5in}%
+	\addtolength{\textwidth}{1in}%
+	\addtolength{\textheight}{1.3in}%
+	\addtolength{\topmargin}{-.8in}%
+    \makeatletter
+    \renewcommand\section{\@startsection {section}{1}{\z@}%
+                                       {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                       {2.3ex \@plus.2ex}%
+                                       {\normalfont\fontfamily{phv}\fontsize{16}{19}\bfseries}}
+    \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                         {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                         {1.5ex \@plus .2ex}%
+                                         {\normalfont\fontfamily{phv}\fontsize{14}{17}\bfseries}}
+    \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                        {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                         {1.5ex \@plus .2ex}%
+                                         {\normalfont\normalsize\fontfamily{phv}\fontsize{14}{17}\selectfont}}
+    \makeatother
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%% IISE Transactions package list %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\usepackage{amsmath}
+	\usepackage{graphicx}
+	\usepackage{enumerate}
+	\usepackage{xcolor}
+	\usepackage{natbib} %comment out if you do not have the package
+	\usepackage{url} % not crucial - just used below for the URL
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%%%% Author package list and commands %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%% Here are some examples %%%%%%%%%%%%%%
+	%	\usepackage{amsfonts, amsthm, latexsym, amssymb}
+	%	\usepackage{lineno}
+	%	\newcommand{\mb}{\mathbf}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\begin{document}
+	    \graphicspath{ {./} }
+	
+			%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		\def\spacingset#1{\renewcommand{\baselinestretch}%
+			{#1}\small\normalsize} \spacingset{1}
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		
+		\if0\blind
+		{
+			\title{\bf \emph{Game of MetaLife }  }
+			\author{Joel Dietz $^a$, Peter Suber  $^b$ \\
+			$^a$ Research Affiliate, Connection Science, MIT, Cambridge, MA \\
+             $^b$ Professor, Berkman Klein Center, Harvard University, Cambridge, MA }
+			\date{}
+			\maketitle
+		} \fi
+		
+		\if1\blind
+		{
+
+            \title{\bf \emph{IISE Transactions} \LaTeX \ Template}
+			\author{Author information is purposely removed for double-blind review}
+			
+\bigskip
+			\bigskip
+			\bigskip
+			\begin{center}
+				{\LARGE\bf \emph{IISE Transactions} \LaTeX \ Template}
+			\end{center}
+			\medskip
+		} \fi
+		\bigskip
+		
+	\begin{abstract}
+We built a gamified simulator for new computational lifeforms by combining lambda calculus and cellular automata via a custom purpose programming language that has been designed to run simulations across multiple rendering engines (i.e. metalambdas). In short, the authors have discovered (a) it is possible to embed lambdas into cellular automata in a 3d environment (b) these automata can genetically absorb each other, evolve into more complex lifeforms across multiple rendering engines (c) these lifeforms can secure their own computational resources through web3 infrastructure (d) various incentives can be deployed to allow for a more dynamic evolutionary experience. Additionally, we believe this qualifies as the fulfillment of the von Neummann vision of a universal constructor and can create a categorical leap in the science and hardware of computing. 
+
+	\end{abstract}
+			
+	\noindent%
+	{\it Keywords:} \emph{Game of Life}; {Zuse Hypothesis}; 
+Universal Constructor ; Lambda Calculus; Nomic; DAO; Monads.
+
+	%\newpage
+	\spacingset{1.5} % DON'T change the spacing!
+
+
+\section{Introduction} \label{s:intro}
+
+Conway's Game of Life is well known. A small set of preconditions allows complex life forms to emerge and achieve a stable state. Numerous implementations document the many patterns that emerge including extending it to multiple dimensions. What Conway's Game of Life does not do, however, is give the lifeforms any possibility of evolution. Inserting lambdas into a cellular automaton allows the automaton to express variable complex objects and, if it absorbs other automata, can grow genetically. This is similar to what Von Neumann suggested in his "theory of self-constructing automata," except that this introduces one additional variable, namely that the simulation takes place in game environment in which the lifeform can compete alongside other lifeforms (i.e. a nomic container). 
+
+Similarly Konrad Zuse discussed the possibility of computational universes, including the mathematics of such, and the appropriate algoirthmms for computing them.\footnote{Konrad Zuse, Rechnender Raum, Friedrich Vieweg & Sohn, Braunschweig, 1969.
+English translation: Calculating Space, MIT Technical Translation AZT-70-164-GEMIT, MIT (Proj. MAC), Cambridge, Mass. 02139, Feb. 1970. PDF scan. More info here: https://people.idsia.ch/~juergen/digitalphysics.html} MetaLife, in this sense, is an implementation of the Zuse hypothesis made possible with web3 incentives. 
+
+\section{M2: metagame engine for creating computational universes} \label{s:numerical}
+
+Seeding computational universes requires first creating cellular automata and providing an environment where they can evolve. This means that that each lifeform must have its computation inside of it in a common format that can be deployed across rendering engines. This common we format refer to as a "metalambda" and is a computationally reduced of lambda calculus that can be deployed cross platform along with a metaurl (i.e. fractal addressing space). Consequently, key features of m2 are compositionality, fractal subdivision of space, the ability to set environment variables within a particular space, and the ability to run simulations forward and backwards in time.
+
+
+
+\subsection{Units of account} \label{s:numerical}
+
+To manage this, we must start by dividing space and time into composible parts. Euclidean space is divided into the length of cubes. A first order cube is one Wolfram meter long. Additional cubes exist at a 100x scale factor smaller, such that each cube is the set of the \math{100^3} = 1,000,000 sub-cubes. 
+
+Naming conventions have been derived from the primary contributors to the concept of a computational universe. 
+
+A second in m2 is a computational step and may be subdivided. Consequently, a Max second is 1 computational step, whereas a Descartes second represents 100 computational steps.  
+
+\begin{center}
+\begin{tabular}{ |Unit Name|Meter|Time|Math| } 
+ \hline
+ Unit Name &Meter &Time &Math \\
+ \hline\hline
+
+ Max Planck & mm & ms & \math{10^0} \\ 
+ Decartes & dm & ds & \math{10^2} \\ 
+ Wolfram  & wm & ws & \math{10^4} \\ 
+ Zuse & zm & zs & \math{10^6} \\ 
+ Penrose & pm & ps & \math{10^8} \\ 
+ Einstein & em & es & \math{10^{10}} \\ 
+ Neumann & nm & ns & \math{10^{12}} \\ 
+
+ \hline
+\end{tabular}
+\end{center}
+
+
+With this framing I now can refer to the exact location of all objects in all Euclidean spaces, including all metaverses that are implemented in Euclidean geometry at any point in time.
+
+
+
+
+
+\includegraphics[width=\textwidth]{5.png}
+
+For example, one can place Mars inside a Max Planck Meter length cube and then place smaller cubes inside of it that describe the land tangential to the surfrace of mars, and then further subdivide.    
+
+\subsection{MetaUrls} \label{s:numerical}
+
+This system of sub-division of space can also be expressed by a url such as follows: 
+
+\url{/1.20.3}
+
+This equates to the space at the coordinates 1,20,3 in wolfram meters (or, more technically, the vector represented by +1, +20, +3 in the Euclidean x,y,z) We will hereafter refer to this as a metaurl. 
+
+\url{/1.2.3/2.100.3/2.32.30/3.3.3}
+
+\url{/in Wolfram meters/in Decartes meters/Planck meters/Zuse meters}
+
+In short, this describes a location at four levels of fractal depth. 
+
+I can now run a simulation at the cube which is at coordinates at this depth by passing the appropriate metalambda command. 
+
+\url{/1.2.3/2.100.3/2.32.30/3.3.0/create(x.l(go(right))))}
+
+
+In short, I have run the create life function to create a cellular automaton and passed that automaton a function which will be its instructions at each computational step.    
+
+If I want to see some future state, I will additionally pass time, in this case 1 Wolfram second (i.e. 10,000 computational steps). 
+
+\url{/1.2.3/2.100.3/2.32.30/3.3.0/create(x.l(go(right))))+1ps} 
+
+The features of function passing will further illustrated in future sections. 
+
+Moreover, if the lifeform or object is to exist across metaverses. 
+
+\section{Game Rules} \label{s:numerical}
+
+
+Each simulation has a set of starting conditions that can also be describe as a game with certain rules.  
+
+The starting variables consist of:
+
+\textbf{The size of the game board}. By default 100x100x100 cubes.
+
+\textbf{The existence of any binding physics rules}. By default none, only that the maximum movement in any direction is +1 or -1 in any direction.\footnote{Integrating variable physics rules is the subject of our collaboration with the Wolfram Institute and builds on Stephen Wolfram's work on metamathematics and the ruliad https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/!}
+
+\textbf{The number of computational steps per game}. By default 10,000.
+
+\textbf{Available functions to players}. Passed in one or more files in a standard "metalambda" format.
+
+\textbf{Energy}. The amount of scattered energy, by default 5000. Computational lifeforms require energy to operate. 
+
+\textbf{Seed}. Default seed, passed as a hexadecimal string and then used to seed the universe with certain  computational lifeforms. 
+
+\textbf{Winning Conditions}. By default, the lifeform that has the most energy at the end of a particular number of computational steps wins.   
+
+
+The game can be run in competitive mode, where people chose specific conditions (and their own functions) and play to the end, or pseudo-randomized where the game conditions are dynamically change include genetic seeding and mutation for the various functions involved. \footnote{Some competitive modes already built allow for the insertion of additional objects in the playing field and for the human player to "intervene" and take over a particularly object (such as a spaceship), thus creating a non-deterministic model of resolution.} 
+
+\includegraphics[width=\textwidth]{first-game-of-metalife.png}
+
+Illustrating of the first game of metalife that was run over 10,000 computational steps with two competing CA using different algorithsm in an interactive native 3d BabylonJS powered simulator. 
+
+
+
+\section{Running the Game} \label{s:numerical}
+
+\subsection{MetaCell} \label{s:numerical}
+
+This is the implementation of a MetaCell in the C sharp programming language. In short, it consists of the location of the lifeform in a vector based 3d spatial environment (i.e. metalang) and a lambda that are the instruction of that lifeform of how to operate at each computational step. Additionally it contains an "absorb" function to describe what should happen should this lifeform encounter another one. 
+
+\begin{minted}{python}
+namespace MetaLifeEngine 
+{
+    public class MetaCell
+    {
+        // 
+        // Make composite of the lambda functions - objects - so that we can compare them 
+        // 
+        public MetaCoordinate Coordinates { get; private set; }
+        public MetaLambda Lambda { get; set; }
+        public int ComputationComplexity { get; set; }
+        public CELL_STATE State { get; set; }
+        public MetaCell(MetaCoordinate coordinates, MetaLambda lambda, int complexity) 
+            => (Coordinates, Lambda, ComputationComplexity, State) = (coordinates, lambda, complexity, CELL_STATE.NONE);
+
+        public void Absorb(MetaCell otherCell) 
+        {
+            // merge or aggregate the lambdas
+            this.Lambda = cell => otherCell.Lambda(this.Lambda(cell));
+            // increase the complexity
+            this.ComputationComplexity += 1;
+        }
+    }
+}\end{minted}
+
+\subsection{Other functions} \label{s:numerical}
+
+Other implemented functions include the MetaGame, which governs the state in which cells live or die, MetaLambda, the wrapper of lambda functionality, and various functions for creation and maintenance of the Grid and Coordinate space.
+
+\subsection{Rendering} \label{s:numerical}
+
+We have built parallel implementations in Unreal Engine (C++), Godot (C sharp), and WebGL (BabylonJS) to illustrate these concepts.
+
+\section{\emph{Evolution}} \label{s:methods.2}
+
+With certain starting conditions we can now simulate certain lifeforms starting with crystalline objects.  
+
+\subsection{\emph{State after 0 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_0.png}
+
+\subsection{\emph{State after 10 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_10.png}
+
+\subsection{\emph{State after 20 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_20.png}
+
+\subsection{\emph{State after 30 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_30.png}
+
+\subsection{\emph{State after 40 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_40.png}
+
+\subsection{\emph{State after 50 ms}} \label{s:methods.2}
+
+\includegraphics[width=\textwidth]{Crystal_Iteration_50.png}
+
+
+
+
+\section{\emph{Web3 Bindings}} \label{s:methods.2}
+	
+Web3 primitives conveniently allow anyone to register and own a part of the overall coordinate space. 
+
+This is issued trivially with NFT technology but, less trivially, by passing the metalang instructions along with the initial transaction through metadata (although there are a few APIs that have agreed to integrate this). Also non-trivially, we have implemented a cross-chain Metadao with multiple levels of nesting and an automatic rollup function for the voting in lower level daos. 
+
+\subsection{\emph{DAO usage }} \label{s:methods.3}
+
+A DAO can also be used to govern the operating variables of the game function, such as the initial starting conditions and the evaluation criteria for each lifeform.  In short, curators can decide the ability of a lifeform to continue or gain more energy, and can so on the basis of quantity (i.e. number of unique cells of that lifeform), including altering the starting conditions.   
+
+\subsection{\emph{Alterable default game conditions }} \label{s:methods.3}
+
+
+Starting energy per life form = 100 
+
+Randomly dispersed fuel: 100,000 nuggets of 10 each.
+
+By default, each parent lifeform has a color and all its children retain that color 
+
+Any invalid function call is not called but subtracts one energy
+
+Valid operands: if/then, modulus, plus, minus, and create  
+
+Each entry submits a function. 
+
+Winner is the one with most populated color at the end of 1,000 computational steps.
+
+
+
+\section{\emph{Philosophical Ramifications... but is it life?}} \label{s:methods.2}
+
+There is an argument to be made to qualify as life an organism must a) have some degree of sentience b) be able to persist by its own volition. I grant that the version 1.0 of Metalife, described and implemented here, may not qualify in a rigorous philosophical sense as life, but the web3 bindings, especially the ability to render an internal currency system which then, via outbound triggers, allows an advanced lifeform to secure the computational resources it needs for continued survival. 
+
+
+\section{\emph{Credits}} \label{s:methods.2}
+
+The game of MetaLife was inspired by conversations with Peter Suber, founder of Nomic concerning an interactive 21st century version of Conway’s Game of Life, which in turn was sparked by a reading of Hofstadter’s book on Metamagical Themas. It is unique, in the sense that the primary author (Joel Dietz) is a long-time artist and game designer first in addition to various academic initiatives. That means that the priority of the game of metalife is, first and foremost, to make a game. In this sense, it is built on both the academic tradition of Ludology (Huizinga, Piaget, Sutton Smith), the poetic tradition of Herman Hesse, and of the world of game designers world wide. Additionally, meaningful and contributing conversations were also had with James Boyd (launch director of the Wolfram Institute), Juergen Schmidhuber, and, indirectly, Stephen Wolfram. Along the way I found the incompleted work of Von Neumann on universal constructers, which I am highly motivated to bring to completion. In this sense, the game of metalife is a game first and, as such, attempts to engage the world of hobbyists and professional researchers in the worlds of lambda calculus and cellular autonoma.  It is also is an interesting tweak on the world of web3, insofar as simulations, modeling life and structured incentives were what attracted me to the space, and I have been periodically active in that space.
+
+\section{Conclusion}\label{s:conclusion}
+
+We have described how metalang allows us to map all Euclidean space with perfect composability of space and time and create new lifeforms that can evolve alongside each other with a variety of evaluative functions.  
+
+
+\section{Outstanding TODO}\label{s:conclusion}
+
+\section{Appendix: M2 glossary } \label{s:numerical}
+
+What we call M2 is a set of logical transformations that allow fields to transform to be more "meta."\footnote{this is similar to metamyth, or the theory of transformations in fields such as reverse euhemerism!}
+
+\[ M_{2}  - Overall framework\] 
+
+\[ M_{\lambda}  - Metalambda \] 
+the definition for functions that can be deployed in multiple rendering engines.   
+
+\[ M_{p}  \] 
+Sets of physics rules 
+
+\[ M_{m} - Metametaverse\] 
+Deployment environment  
+
+
+
+\includegraphics[width=\textwidth]{metalifetodo.png}
+
+\if0\blind{
+
+	
+\end{document}
+
