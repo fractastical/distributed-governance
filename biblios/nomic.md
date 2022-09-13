@@ -1,3 +1,6 @@
+(thanks to Peter Suber for providing many of these) 
+
+
 Gerard A.W. Vreeswijk, Emergent political structures in abstract forms of rule-making and legislation, 1995.
 http://pub.maastrichtuniversity.nl/178d0ed6-5a76-41c2-b004-44bfb1068dd1
 
