@@ -13,6 +13,10 @@ The goal of this project is to be the definitive resource for attempts to build 
 
 [Most important works on nomic](biblios/nomic.md)
 
+[Most important works on holonics](https://weco.io/p/1691)
+
+ 
+
 
 ## History
 
