@@ -41,7 +41,7 @@ The most recent version of this bibliography was created to inform this debate s
 
 "DCO" - Decentralized Collaborative Organization, a term invented at the Harvard-MIT-Stanford summits by a team of scholars in order to render a DAO integratable into existing cooperative style law
 
-"Network State" - a political configuration havine the properties of a network. 
+"Network State" - a political configuration having the properties of a network. 
 
 
 
