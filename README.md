@@ -15,7 +15,8 @@ The goal of this project is to be the definitive resource for attempts to build 
 
 [Most important works on holonics](https://weco.io/p/1691)
 
- 
+[Most important works on extended states of consciousness ](biblios/extended_states.md)
+
 
 
 ## History
