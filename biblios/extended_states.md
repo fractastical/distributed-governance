@@ -1,4 +1,4 @@
-1] The original Robert Anton Wilson and Terrance McKenna McKenna era stuff which tends to be a bit vague overall despite references to machine elves and various sub-experiences, including McKenna's own chronicles of what the mushrooms told him. Possibly culminating with Leary and RAW's 8 Circuit model (https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness) 
+1] The original Robert Anton Wilson and Terrance McKenna era stuff which tends to be a bit vague overall despite references to machine elves and various sub-experiences, including McKenna's own chronicles of what the mushrooms told him. Possibly culminating with Leary and RAW's 8 Circuit model (https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness) 
 
 2] The works of Wasson and others. whose primary thrust was tying them back to Eleusis. These have relatively sparse detailed documentation. 
 
