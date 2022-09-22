@@ -4,7 +4,7 @@
 
 3] Erowid a great repository of entheogenic information but relatively light on Taxonomies.
 
-4] the work of Strassman et all which is "scientific" but light on details of inner experiences and was basically unfinished.  
+4] the work of Strassman et al which is "scientific" but light on details of inner experiences and was basically unfinished.  
 
 4] The entities, a group of 14,000 people on Facebook categorizing entities they have found in DMT trips (https://www.facebook.com/groups/174694074873217)
 
