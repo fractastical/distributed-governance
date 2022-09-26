@@ -16,7 +16,7 @@
 
 8] The output of the Qualia Research Institute and associated groups which tends towards a mathematical type approach and various neologisms like "Neural Annealing" by which they basically surmise that healing happens though certain types of neural stimulation that is especially available during these types of experiences. I especially liked their paper about hyperbolic geometries as it aligns well with other things we have going on the research front. 
 
-9] Alexander Shulgin's original writings including, Pihkal and Tihkal, and the recordings of the lecture series ‘The nature of drugs'
+9] Alexander Shulgin's original writings including, Pihkal and Tihkal, and the recordings of the lecture series ‘The nature of drugs' + review (https://slatestarcodex.com/2016/08/11/book-review-pihkal)
 
 10] The Antipodes of the Mind: Charting the Phenomenology of the Ayahuasca Experience by Benny Shanon.  Probably the most exhaustive and comprehenisve of all of them from both an anthrpological and phenomenological standpoint.
 
