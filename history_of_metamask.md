@@ -61,5 +61,5 @@ Joel Dietz
 9. Joel writes emails to people from Consensys to find out what happened but no one responds (Dec 27, 2015, Sep 8, 2016). 
 
 
-Some people also ask about the history of the fox. Basically Kumavis and myself (but esp. Kumavis) were Starfox fans and we thought it would be a cool 3d logo. 
+Some people also ask about the history of the fox. Basically Kumavis and myself (but esp. Kumavis) were Starfox fans and we thought it would be a cool 3d logo (I will note that there is a deeper history to the original choice of logo but if you want to know you should find some dream researchers in Toronto and see if they will tell you). 
 
