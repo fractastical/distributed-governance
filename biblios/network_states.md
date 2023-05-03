@@ -1,4 +1,6 @@
-Books compiled from speakers in New Cities and Network States conference (https://lu.ma/ae66qgco) :
+**Books compiled from speakers in New Cities and Network States conference (https://lu.ma/ae66qgco) :
+**
+
 
 Balaji, Network State: [https://www.amazon.com/Network-State-How-Start-Country-ebook/](https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G/)
 
