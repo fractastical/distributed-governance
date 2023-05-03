@@ -1,22 +1,22 @@
-**Books compiled from speakers in New Cities and Network States conference (https://lu.ma/ae66qgco) :
-**
+## Books compiled from speakers in New Cities and Network States conference (https://lu.ma/ae66qgco) :
+
 
 
 Balaji, Network State: [https://www.amazon.com/Network-State-How-Start-Country-ebook/](https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G/)
 
 Mark Frazier and Joe McKinney, Founding Startup Societies: A Step by step guide
 
-Jane Jacobs, Economy of Cities
+Joe Quirk (with Patri Friedman), Seasteading
 
 Alain Bertaud, Order without Design
 
-Joe Quirk (with Patri Friedman), Seasteading
-
-Herzl, Jewish State
+Jane Jacobs, Economy of Cities
 
 Tom Bell, Your Next Government
 
-Mark Frazier, Joe McKinney, Startup Societies
+Herzl, Jewish State
+- the situation of cryptocurrency enthusiasts is commonly compared to the Jews insofar as they have their own "religion" and are increasingly societal outcasts 
+
 
 J. Storrs Hall, “Where is My Flying Car”
 
