@@ -9,6 +9,8 @@ The goal of this project is to be the definitive resource for attempts to build 
 
 [Most important works on crypto law](biblios/cryptolaw_biblio.md)
 
+[Most important works on network states ](biblios/network_states.md)
+
 [Most important works on swarm intellgence](biblios/swarm_systems.md)
 
 [Most important works on nomic](biblios/nomic.md)
@@ -16,6 +18,7 @@ The goal of this project is to be the definitive resource for attempts to build 
 [Most important works on holonics](https://weco.io/p/1691)
 
 [Most important works on extended states of consciousness ](biblios/extended_states.md)
+
 
 
 
