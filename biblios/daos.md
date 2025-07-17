@@ -11,11 +11,15 @@ https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-termin
 
 https://forum.makerdao.com/t/endgame-plan-v3-complete-overview/17427
 
-## Additional Foundational Resources
+## Historical Milestones
 
-- Vitalik Buterin, “The Meaning of Decentralization” – https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a3f43f59c51
-- Ethereum Foundation, “Ethereum Whitepaper” – https://ethereum.org/en/whitepaper/
-- Gavin Wood, “Ethereum: A Secure Decentralised Generalised Transaction Ledger” (Yellow Paper) – https://ethereum.github.io/yellowpaper/paper.pdf
+- **2013** – Daniel Larimer introduces the concept of a “Decentralized Autonomous Corporation (DAC)” on the BitShares forum, laying early groundwork for DAOs.
+- **2014** – Vitalik Buterin publishes “DAOs, DACs, Das and More: An Incomplete Terminology Guide” – <https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide>.
+- **2014** – Bitcoin Foundation experiments with on-chain voting for board elections using blockchain ballots.
+- **2016** – *The DAO* launches on Ethereum, raising ~$150 M before the well-known exploit and subsequent hard-fork – SEC report: <https://www.sec.gov/litigation/investreport/34-81207.pdf>.
+- **2022** – Ukraine’s Ministry of Digital Transformation partners with crypto communities to launch “Aid for Ukraine” DAO for wartime fundraising – <https://aid.gov.ua/>.
+
+
 
 ## Governance & Design Patterns
 
