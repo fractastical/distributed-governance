@@ -82,3 +82,39 @@ https://coincenter.org/entry/framework-for-securities-regulation-of-cryptocurren
 Vlad Zamfir For a new crypto legal system
 
 https://medium.com/cryptolawreview/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827
+
+**2020**
+
+Wyoming Legislature, "Decentralized Autonomous Organization Supplement" (SF0038) – https://wyoleg.gov/2020/Enroll/SF0038.pdf
+
+FATF, "Updated Guidance on Virtual Assets and VASPs" – https://www.fatf-gafi.org/media/fatf/documents/recommendations/RBA-VA-VASPs.pdf
+
+**2021**
+
+U.S. Infrastructure Investment and Jobs Act – "Broker" reporting requirement for digital assets – https://www.congress.gov/bill/117th-congress/house-bill/3684/text
+
+SEC v. Ripple Labs, Inc. (ongoing litigation) – https://www.sec.gov/news/press-release/2020-338
+
+European Commission, "Markets in Crypto-Assets (MiCA)" proposal – https://finance.ec.europa.eu/publications/markets-crypto-assets-mica_en
+
+**2022**
+
+U.S. Executive Order 14067, "Ensuring Responsible Development of Digital Assets" – https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-innovation-in-digital-assets/
+
+OFAC Sanctions on Tornado Cash – https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808
+
+CFTC v. Ooki DAO – https://www.cftc.gov/PressRoom/PressReleases/8590-22
+
+**2023**
+
+EU Parliament formally adopts MiCA Regulation – https://www.europarl.europa.eu/news/en/press-room/20230414IPR80129-first-eu-rules-to-track-crypto-asset-transfers-prevent-money-laundering
+
+SEC lawsuits against Coinbase and Binance (June 2023) – https://www.sec.gov/news/press-release/2023-102 (Coinbase) ; https://www.sec.gov/news/press-release/2023-101 (Binance)
+
+UK Financial Services and Markets Act 2023 – crypto provisions – https://bills.parliament.uk/bills/3326
+
+**2024**
+
+EU Data Act Article 30 – smart-contract requirements for data sharing – https://data-act-europa.eu/
+
+U.S. House bill "Financial Innovation and Technology for the 21st Century Act" (FIT21) – https://www.congress.gov/bill/118th-congress/house-bill/4763
