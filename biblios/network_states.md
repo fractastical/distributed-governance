@@ -1,7 +1,8 @@
 Network States & Startup Societies Bibliography
 ==============================================
 
-_An expanded reading list on network states, charter / startup cities, special jurisdictions, and the socio-economic theories behind them._
+
+_An expanded reading list on network states, charter / startup cities, special jurisdictions, and the socio-economic theories behind them, as described at the inaugural network state weekend at Zuzalu._
 
 ### Foundational Works
 - Balaji Srinivasan, **The Network State** (2022) – https://thenetworkstate.com/
@@ -40,47 +41,5 @@ _An expanded reading list on network states, charter / startup cities, special j
 - UN-Habitat, **World Cities Report** (2022)
 - Seasteading Institute, **Floating Cities Project Report** (2019)
 
-_This bibliography blends classic urbanist texts with emerging work on crypto-governance and special jurisdictions, offering a broad foundation for understanding—and building—the network states of tomorrow._
 
 
-
-Balaji, Network State: [https://www.amazon.com/Network-State-How-Start-Country-ebook/](https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G/)
-
-- Book that sparked a resurgence in the movement
-
-Tom Bell, Your Next Government
-
-- examines the growth in special jurisdictions 
-
-Mark Frazier and Joe McKinney, Founding Startup Societies: A Step by step guide
-
-- Detailed list of dos and don'ts, including great cautions 
-
-Joe Quirk (with Patri Friedman), Seasteading
-
-- Original book that set the stage for the seasteading vision
-
-Alain Bertaud, Order without Design: How Markets shape cities 
-
-- examines the elements of where and how market dynamics evolve cities including where city planners need to step in
-
-Jane Jacobs, Economy of Cities
-
-- examination of why some cities grow and others don't
-
-Herzl, Jewish State
-
-- the situation of cryptocurrency enthusiasts is commonly compared to the Jews insofar as they have their own "religion" and are increasingly societal outcasts 
-
-
-J. Storrs Hall, “Where is My Flying Car”
-
-Michael Huemer, “Justice Before Law”
-
-Jessica Flanigan, “Pharmaceutical Freedom”
-
-D. Levine & M. Boldrin, “Against Intellectual Monopoly”
-
-Bryan Caplan, “Open Borders”
-
-Hernando de Soto, “The Mystery of Capital”
