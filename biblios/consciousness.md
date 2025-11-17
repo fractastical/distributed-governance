@@ -2,7 +2,7 @@
 # Bibliography
 
 
-## Other relevant works on evolution, consciousness, and machine consciousness
+## Works on evolution, consciousness, and machine consciousness
 
 * Friston, K. J. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127–138. [https://doi.org/10.1038/nrn2787](https://doi.org/10.1038/nrn2787) ([Nature][11])
 
