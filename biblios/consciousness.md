@@ -20,6 +20,24 @@
 
 * Ohmura, Y., & Kuniyoshi, Y. (2025). Why consciousness should explain physical phenomena: Toward a testable theory. *arXiv preprint arXiv:2511.04047.* [https://doi.org/10.48550/arXiv.2511.04047](https://doi.org/10.48550/arXiv.2511.04047) ([arXiv][17])
 
+## Resonance
+
+
+Atasoy, S., Donnelly, I., & Pearson, J. (2016). Human brain networks function in connectome-specific harmonic waves. Nature Communications, 7, 10340. https://doi.org/10.1038/ncomms10340
+
+Dikker, S., Wan, L., Davidesco, I., Kaggen, L., Oostrik, M., McClintock, J., … Poeppel, D. (2017). Brain-to-brain synchrony tracks real-world dynamic group interactions in the classroom. Current Biology, 27(9), 1375–1380. https://doi.org/10.1016/j.cub.2017.04.002
+
+Gamma, A., & Metzinger, T. (2021). The Minimal Phenomenal Experience questionnaire (MPE-92M): Towards a phenomenological profile of “pure awareness” experiences in meditators. PLOS ONE, 16(7), e0253694. https://doi.org/10.1371/journal.pone.0253694
+
+Levin, M. (2022). Technological approach to mind everywhere: An experimentally-grounded framework for understanding diverse bodies and minds. Frontiers in Systems Neuroscience, 16, 768201. https://doi.org/10.3389/fnsys.2022.768201
+
+Lomas, J. D., Lin, A., Dikker, S., Forster, D., Lupetti, M. L., Huisman, G., … Cross, E. S. (2022). Resonance as a design strategy for AI and social robots. Frontiers in Neurorobotics, 16, 850489. https://doi.org/10.3389/fnbot.2022.850489
+
+Sandved-Smith, L., Hesp, C., Mattout, J., Lutz, A., & Ramstead, M. J. D. (2021). Towards a computational phenomenology of mental action: Modelling meta-awareness and attentional control using deep active inference. Neuroscience of Consciousness, 2021(2), niab020. https://doi.org/10.1093/nc/niab020
+ 
+Sandved-Smith, L., Schartner, M. M., Muthukumaraswamy, S. D., Barrett, A. B., Turkheimer, F. E., & Ramstead, M. J. D. (2025). Deep computational neurophenomenology. Neuroscience & Biobehavioral Reviews, 159, 105495. https://doi.org/10.1016/j.neubiorev.2025.105495
+ 
+
 
 ## Works by Joscha Bach
 
