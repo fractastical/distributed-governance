@@ -25,8 +25,6 @@ Levin, M. (2023). Bioelectric networks: The cognitive glue enabl
 Lin, A. Y.‑M., & Lomas, J. D. (2022). The Enigma of Mind: A Theory of Evolution and Conscious Experience. In E. J. Ward & R. Reuvers (Eds.), Enigmas: Darwin College Lectures (pp. 179–228). Cambridge University Press. https://doi.org/10.1017/9781009232517.009
  
 
-enigma_of_mind_a_theory_of_evol…
-
 Ly, C., Greb, A. C., Cameron, L. P., et al. (2018). Psychedelics promote structural and functional neural plasticity. Cell Reports, 23(11), 3170–3182. https://doi.org/10.1016/j.celrep.2018.05.022
 
 Metzinger, T. (2020). Minimal phenomenal experience: Meditation and pure consciousness. Philosophy and the Mind Sciences, 1(I), 7. https://doi.org/10.33735/phimisci.2020.I.46
